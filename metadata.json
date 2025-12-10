@@ -1,0 +1,8 @@
+{
+  "name": "Rahat Coding Wala",
+  "description": "A comprehensive platform featuring AI services and the complete book collection of Rehanallah.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
